@@ -17,6 +17,9 @@ StudentVault is a student management system designed to manage student records e
 ### Prerequisites
 
 **Java Development Kit (JDK) 8 or higher**
+
 **Apache Maven**
+
 **MySQL Server**
+
 **IDE of your choice (e.g., Eclipse, IntelliJ IDEA)**
